@@ -15,7 +15,7 @@ Before, I did a PhD in cognitive neuroscience (check out my [thesis](https://git
 ## :package: Packages
 
 - :mortar_board: [`{amsterdown}`](https://github.com/lcreteig/amsterdown) An RMarkdown thesis template for the University of Amsterdam
-- :dna: [`{hlapro}`](https://github.com/lcreteig/amsterdown) Tools to work with Human Leukocyte Antigen (HLA) typings and antibody data
+- :dna: [`{hlapro}`](https://github.com/lcreteig/hlapro) Tools to work with Human Leukocyte Antigen (HLA) typings and antibody data
 
 ## :microscope: Research projects
 
